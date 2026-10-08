@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+section{
+    text-align: left;
+}
+
+#Artigo{
+    background-color: #146eb4;
+    text-align: center;
+    width: 250px;
+    height: 400px;
+    margin: 10px;
+    border-radius: 50px;
+
+}
+
+figcaption{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+}
